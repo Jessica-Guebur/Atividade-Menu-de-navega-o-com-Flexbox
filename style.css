@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+
+}
+
+h1{
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.container{
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
